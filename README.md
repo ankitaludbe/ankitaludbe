@@ -1,14 +1,47 @@
-<h1 align="center">Hi👋, I'm Ankita</h1>
-<h3 align="center">A Passionate Software Developer👩‍💻</h3>
+<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h3 align="center">Software Developer | Frontend & Backend Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankita-ludbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-ludbe" height="30" width="40" /></a>
-<a href="https://instagram.com/ankita_ludbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankita_ludbe" height="30" width="40" /></a>
-<a href="https://medium.com/@ankita-ludbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankita-ludbe" height="30" width="40" /></a>
+<p align="center">
+Dedicated to designing and building scalable applications, with a consistent emphasis on maintainable architecture and clean code practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaludbe&show_icons=true&locale=en&layout=compact" alt="ankitaludbe" /></p>
+### ✨ About Me
+-  Currently enhancing skills in **Full Stack development** and **problem-solving**
+-  Interested in developing practical and intuitive web-based solutions
+-  Committed to continuous learning and adopting modern development practices
+-  In my free time, I explore **UI/UX design** to strengthen my understanding of user interactions and visual design principles 
+
+---
+
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/ankita-ludbe" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://instagram.com/ankita_ludbe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+<a href="https://medium.com/@ankita-ludbe" target="_blank"><img src="https://skillicons.dev/icons?i=medium" width="40"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack I Work With
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,java,cpp,mysql,oracle,flask,hadoop,android" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- UI/UX to design more intuitive user experiences 🎨  
+- Improving problem-solving & DSA skills 🧠  
+
+---
+
+### 🚀 Featured Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaludbe&layout=compact" alt="Top Languages" />
+</p>
+
+---
